@@ -52,7 +52,7 @@ test-envoi-api/
 ### 1. Cloner le projet
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/LordThiouk/test-envoi-api.
 cd test-envoi-api
 ````
 
